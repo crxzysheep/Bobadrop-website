@@ -1,1 +1,2 @@
-document.write("This is a javascript code");
+// document.write("This is a javascript code");
+
